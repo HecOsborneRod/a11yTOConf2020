@@ -16,8 +16,8 @@ Human rights ideas are baked into laws. Human rights LAWS can be foundd them her
 - ADA
 - Accessible Canada Act
 - Section 508
-- Canadian Human Right Act | Charter Rights and Freedom
-- AODA | US state laws
+- Canadian Human Right Act \| Charter Rights and Freedom
+- AODA \| US state laws
 - CRPD (United Nations)
 
 The laws have to be implemented! The laws are not baked until they are enforced!
@@ -39,8 +39,8 @@ RBC had the first Talking ATM in the word in the 1997.
 
 ### 3. Civil Rights Lawsuits
 - 66 Million Dollar Website
-- Voting | Higher Ed
-- Kiosks | Retail sites
+- Voting \| Higher Ed
+- Kiosks \| Retail sites
 
 The importance of civil rights lawsuits: 
 - There's a case pending in the State of California, they payed 66Million  US$. It wasn't accessible.
