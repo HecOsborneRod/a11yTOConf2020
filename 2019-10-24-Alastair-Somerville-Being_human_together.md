@@ -6,7 +6,6 @@ Slide Deck: [https://www.dropbox.com/s/lularjexa58fn00/Being%20Human%20Together%
 - It's different asking people what they want vs imposing a technological solution to them.
 - People don't want **"accessible solutions"** ... people want memorable experiences to share, now & later
 
-
 While implementing the VR solution for the UK underground Mail Train system
 - We have major issues with the cables, not accessible to wheelchairs or walkers
 - We have issues with Visual Interfaces, some users found it actually stressful and scary. Some felt they were in entering the void.

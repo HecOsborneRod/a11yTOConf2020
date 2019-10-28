@@ -4,9 +4,9 @@ Twitter: [@feather](http://www.twitter.com/feather)
 Course [Accessibility for web design](https://www.linkedin.com/learning/accessibility-for-web-design)
 
 ## a11y should be intentional
--- What does inclusive design means?   
--- A11y => is the => outcome  
--- Inclusive design => is the => process
+- What does inclusive design means?   
+- A11y => is the => outcome  
+- Inclusive design => is the => process
 
 > Inclusive design should be reliable sustainable and ethically responsible way to achieve a11y
 

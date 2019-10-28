@@ -65,7 +65,7 @@ Outcome: users follow the pattern and often sent the wrong way.
 CogDis outcome: Users are move vulnerable to being tricked as they are more likely to rely on signals and patterns
 
 ### Disabled Submit
-don't disable submit buttons ad the end
+Don't disable submit buttons after the form is submitted.
 
 Intent: Have users fix their error before moving forward
 Outcome: Users are force to have errors scavenger hunt

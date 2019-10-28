@@ -45,19 +45,17 @@ What if we get audio description from the perspective of one the other character
 - Prroviding multiple means of engagement
 - Providing multiple means of action and expression
 
-Whats the exprience when you are in your home vs watching a video in a bus? (no headphones)
+What's the experience when you are in your home vs watching a video in a bus? (no headphones)
 
 I'm not saying that striving for a11y is bad, I'm saying 
 
 Engage and listen to people (>1), doing exactly what one person says may steer you in the wrong direction.
 
-Collaborate to identy unmet needs, it is not the responsibility of the community to articulate them
+Collaborate to identify unmet needs, it is not the responsibility of the community to articulate them.
 
-insert photo from phone
+[insert photo from phone]
 
-
-https://www.understood.org/en/school-learning/for-educators/universal-design-for-learning/understanding-universal-design-for-learning
-
-http://www.cast.org/our-work/about-udl.html
-
-https://schmidt-arch.com/7-principles-of-universal-design-for-learning/
+## Resources
+- https://www.understood.org/en/school-learning/for-educators/universal-design-for-learning/understanding-universal-design-for-learning
+- http://www.cast.org/our-work/about-udl.html
+- https://schmidt-arch.com/7-principles-of-universal-design-for-learning/

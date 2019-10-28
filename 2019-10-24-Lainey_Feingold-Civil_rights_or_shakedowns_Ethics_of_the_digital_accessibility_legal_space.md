@@ -61,7 +61,7 @@ They said no.
  4. Effort to resolve before suing
 5. Primary goal is accessibility
 
-What makes a stategy unsucessful?  
+## What makes a stategy unsucessful?  
 Red flags that indicate shakedown not Civil Rights.
 - Too many cases to pursue with care
 - No transparency, no research, quick search
@@ -80,7 +80,7 @@ Red flags that indicate shakedown not Civil Rights.
 3. Gives lawyers an out-sized role
 4. Encourages negative media
 
-Puts focus only on websites
+## Puts focus only on websites
 Currently is only on websites, but it's moving to mobile apps, and Kiosks
 
 > Lawsuits puts focus only on websites, however #a11y needs to be considered holistically; think of mobile apps, kiosks, checkout systems in stores 

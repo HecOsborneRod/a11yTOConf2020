@@ -23,7 +23,7 @@ WCAG is built on the idea that Success criteria (SC) can be evaluated clearly an
 WCAG Sucess Criterias (SC) are often misunderstood and misinterpreted
 
 ### WCAG 2.4.6 Headings and Labels (AA)
-It doesn't mandate the usage of heading and labels… only that if the page uses headings and labels, they must be descriptive. 
+It doesn't mandate the usage of heading and labels... only that if the page uses headings and labels, they must be descriptive. 
 
 #### Example 1
      <input type="text">
@@ -77,7 +77,7 @@ Fails 2.1.1 Keyboard ... but also 4.1.2 name, role, value, and it acts as a link
 > WCAG 2.x is not perfect.
 
 ### Subjective interpretation
-- 1.1.1 all non-text content [...] has a text alternative that server the quivlaent purpose … but what's the purpose ? 
+- 1.1.1 all non-text content [...] has a text alternative that server the equivalent purpose ... but what's the purpose ? 
 - 1.3.1 information, structure and relationships conveyed through presentation [...] where do you draw the line ? 
 - 2.4.6 headings and labels describe topic or purpose - what's the descriptive exactly?
 

@@ -11,7 +11,7 @@ You can't talk about accessibility without talking about user experience.
 > Missing ALT Text on images leads to poor user experience
 
 ## Some data, WEB AIM
-- 60% of sites, missing alt TEXT
+- 68% of sites, missing alt TEXT
 - Tenon.io: issues by affected users, nearly half where vision related
 - Top test failures fit in 5 categories, ALT text is among them
 

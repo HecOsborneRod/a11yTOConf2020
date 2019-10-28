@@ -4,11 +4,11 @@ Company: Speak your mind
 
 
 ## The problem 
-	- Devices that are available to people that come to us are really expensive
-	- Outdated
-	- Long wait times to get them updated
-	- Low availability
-	- Steep learning curve
+- Devices that are available to people that come to us are really expensive
+- Outdated
+- Long wait times to get them updated
+- Low availability
+- Steep learning curve
 
 Build something for them by any means necessary!
 
