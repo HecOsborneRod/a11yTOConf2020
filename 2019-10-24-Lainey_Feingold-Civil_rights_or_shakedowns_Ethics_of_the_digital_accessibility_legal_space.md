@@ -1,12 +1,7 @@
----
-title: 
-author: Hector Rodriguez
-date: 2019-10-26
----
 # Civil Rights Or Shakedowns: Ethics Of The Digital Accessibility Legal Space
-- Speaker: Lainey Feingold
-- Twitter: [@LFLegal](http://www.twitter.com/@LFLegal)
----
+Speaker:   
+Twitter: [@LFLegal](http://www.twitter.com/@LFLegal)
+
 ## Why is the law part of Digital Accessibility?
 Accessibility is a human right of disabled people!
 

@@ -1,15 +1,11 @@
----
-title: 
-author: Hector Rodriguez
-date: 2019-10-26
----
-# Title
-- Speaker: Caitlin Cashin
-- Twitter: [@caitlinthefirst](http://www.twitter.com/caitlinthefirst)
-- URL: http://caitlinthefirst.github.io
-- [Slides and resources](https://docs.google.com/presentation/d/1HpEWJlTgYgVPgNEWqK9tl_GlYgbayGX5fLoN3Wghquo/edit)
+# Accessibility for Content Creators
+Speaker: Caitlin Cashin  
+Twitter: [@caitlinthefirst](http://www.twitter.com/caitlinthefirst)  
+URL: http://caitlinthefirst.github.io  
+[Slides and resources](https://docs.google.com/presentation/d/1HpEWJlTgYgVPgNEWqK9tl_GlYgbayGX5fLoN3Wghquo/edit)  
 
----
+### Definitions
+
 Content creator is anyone who develops and publishes content for websites, email communication, and social media. 
 
 - Headings are extremely important!

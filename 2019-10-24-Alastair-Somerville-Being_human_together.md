@@ -1,11 +1,6 @@
----
-title: Being Human Together: The Limits Of Accessible VR
-date: 2019-10-24
----
 # Being Human Together: The Limits Of Accessible VR
-- Speaker: Alastair Somerville
+Speaker: Alastair Somerville  
 - Twitter: [@Acuity_Design](http://www.twitter.com/@Acuity_Design)
----
 
 - It's different asking people what they want vs imposing a technological solution to them.
 - People don't want **"accessible solutions"** ... people want memorable experiences to share, now & later

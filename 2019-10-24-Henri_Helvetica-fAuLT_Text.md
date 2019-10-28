@@ -1,20 +1,13 @@
----
-title: 
-date: 2019-10-26
----
 # fAuLT Text
-- Speaker: Henri Helvetica
-- Twitter: [@HenriHelvetica](https://twitter.com/HenriHelvetica)
----
+Speaker: Henri Helvetica  
+Twitter: [@HenriHelvetica](https://twitter.com/HenriHelvetica)
+
 ## Web Performance
 When speaking Compression of images think about: loading time, formats & sizes
 
 You can't talk about accessibility without talking about user experience.
 
-
-
 > Missing ALT Text on images leads to poor user experience
-
 
 ## Some data, WEB AIM
 - 60% of sites, missing alt TEXT
@@ -43,4 +36,6 @@ Gender was misidentified in
 - Up to 12% on dark skin males
 - Up to 35% on dark skin females
 
-
+## References
+The WebAIM Million  
+[http://webaim.org/projects/million](http://webaim.org/projects/million)

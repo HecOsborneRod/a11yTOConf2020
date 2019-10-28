@@ -1,15 +1,10 @@
----
-title: HTML is accessible by default, right?
-date: 2019-10-24
----
 # HTML is accessible by default, right?
 Speaker: Scott O'Hara  
 Twitter: [@scottohara](http://www.twitter.com/scottohara)
 
-
 ## 1. ARIA  
-- https://www.w3.org/TR/core-aam-1.1/  
-- http://w3c.github.io/test-results/core-aam/
+- [https://www.w3.org/TR/core-aam-1.1/](https://www.w3.org/TR/core-aam-1.1/  )
+- [http://w3c.github.io/test-results/core-aam/](http://w3c.github.io/test-results/core-aam/)
 - [Accessibility Tree](http://whatsock.com/training/)
 
 
