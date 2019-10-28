@@ -1,8 +1,4 @@
----
-title: 
-author: Hector Rodriguez
-date: 2019-10-26
----
+
 # HyperDotA11y: How An Itty Bitty Indie Game Does Flexibility Research
 - Speaker: Holly Harrison
 - Twitter: @hollharris
@@ -20,8 +16,3 @@ Flexible features
 
 HyderDot's streamlined controls make it perfect for fist-time Xbox adaptive control players.
 
-
-
-##
-##
-##

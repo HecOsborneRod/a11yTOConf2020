@@ -1,8 +1,8 @@
 # Garbage Pail Compilation 
 Speaker: Marcy Sutton  
-Twitter: [@marcysutton](http://www.twitter.com/marcysutton)
-URL: http://marcysutton.github.io/
-Slide Deck: https://marcysutton.github.io/garbage-pail-components/
+Twitter: [@marcysutton](http://www.twitter.com/marcysutton)  
+URL: [http://marcysutton.github.io/](http://marcysutton.github.io/)  
+Slide Deck: [https://marcysutton.github.io/garbage-pail-components/](https://marcysutton.github.io/garbage-pail-components/)
 
 ## User with disabilities quotes
 How do you feel when a site is not accessible:

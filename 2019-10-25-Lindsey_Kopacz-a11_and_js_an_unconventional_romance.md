@@ -1,10 +1,7 @@
 # a11y & JS An Unconventional Romance
 Speaker: Lindsey Kopacz  
-[@LittleKope](http://www.twitter.com/LittleKope)
-
-## Deck URL
-[http://bit.ly/a11yTO-a11y-js-romance](http://bit.ly/a11yTO-a11y-js-romance)  
-[https://lkopacz.github.io/a11yTo-a11y-js-unconventional-romance/#/](https://lkopacz.github.io/a11yTo-a11y-js-unconventional-romance/#/)
+Twitter: [@LittleKope](http://www.twitter.com/LittleKope)  
+Slide Deck: [https://lkopacz.github.io/ a11yTo-a11y-js-unconventional-romance/#/](https://lkopacz.github.io/a11yTo-a11y-js-unconventional-romance/#/)
 
 ## Who is Lindsey
 

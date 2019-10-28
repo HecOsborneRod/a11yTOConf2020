@@ -1,12 +1,8 @@
----
-title: 
-author: Hector Rodriguez
-date: 2019-10-26
----
 # Old School - Gaming And Aging
 - Speaker: Earl Cousins
 - Twitter: @a11ySherpa
----
+
+
 ## Introduction
 Games are growing up
 - Back in the days: you could spent 15min in Arcade Game

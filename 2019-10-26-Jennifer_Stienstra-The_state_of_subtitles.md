@@ -1,11 +1,7 @@
----
-title: 
-date: 2019-10-26
----
 # The State of Subtitles
 - Speaker: Jennifer Stienstra
 - Twitter: [@thefantasticjen](https://twitter.com/thefantasticjen)
----
+
 ## Why talk about subtitles? 
 Subtitles are included in almost in al games nowadays.
 Inform players what's going on around them.

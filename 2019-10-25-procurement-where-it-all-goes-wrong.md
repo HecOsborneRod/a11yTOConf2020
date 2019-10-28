@@ -1,10 +1,8 @@
-
+# Procurement - Where It All Goes Wrong!
 - Speaker: Mike Gifford
 - Title: Procurement - Where It All Goes Wrong!
-- Twitter: @mgifford
+- Twitter: [@mgifford](http://www.twitter.com/mgifford)
 - Company URL: https://openconcept.ca/
----
-# Procurement - Where It All Goes Wrong!
 
 When companies are creating RFPs, currently they usually only add: 
 *"Must meet WCAG 2.0"* 
@@ -16,7 +14,7 @@ When companies are creating RFPs, currently they usually only add:
 > "a11y is complicated!  
 > a11y is a journey.  
 > It shouldn't be the thing you do last minute."  
-> Mike Gifford
+> \-Mike Gifford
 
 We need to have people writing RFPs with a11y knowledge.
 Vendors should now the best practices.
@@ -25,7 +23,7 @@ Vendors should now the best practices.
 > "Good a11y is something you have to invest in.  
 > It's not free.  
 > It's not an add-on."  
-> Mike Gifford
+> \- Mike Gifford
 
 ### How do we try to make sure this is something were committed to?
 Here are 10 steps to do so:
@@ -44,7 +42,7 @@ Ask your vendors, and evaluate your vendors website.
 
 	
 #### Important reference
-Checkout ATAG 2.0 (framework)
+Checkout ATAG 2.0 (framework)  
 https://www.w3.org/TR/ATAG20/
 
 

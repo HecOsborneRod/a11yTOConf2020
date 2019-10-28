@@ -6,7 +6,7 @@ date: 2019-10-26
 # The New Normal
 - Speaker: Ian Hamilton  
 - Twitter: @ianhamilton_  
-- URL: http://gameaccessibilityguidelines.com/
+- URL: [http://gameaccessibilityguidelines.com/](http://gameaccessibilityguidelines.com/)
 - Email: i_h@hotmail.com
 ---
 ## Past year's accessibility advances

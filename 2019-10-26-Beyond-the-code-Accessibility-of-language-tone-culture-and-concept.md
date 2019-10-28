@@ -1,7 +1,3 @@
----
-title: Beyond the code: Accessibility of language, tone, culture, and concept
-date: 2019-10-26
----
 # Beyond the code: Accessibility of language, tone, culture, and concept
 - Speaker: Littlenavi 
 - Twitter: [@Littlenavi](https://twitter.com/littlenavi_)

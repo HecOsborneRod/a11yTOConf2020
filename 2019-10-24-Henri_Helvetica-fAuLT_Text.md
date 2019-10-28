@@ -1,6 +1,7 @@
 # fAuLT Text
 Speaker: Henri Helvetica  
 Twitter: [@HenriHelvetica](https://twitter.com/HenriHelvetica)
+Deck Slide: [https://www.dropbox.com/s/9i5rz4vdb3l6aco/fAuLT_TEXT_v1_PDF.pdf?dl=0](https://www.dropbox.com/s/9i5rz4vdb3l6aco/fAuLT_TEXT_v1_PDF.pdf?dl=0)
 
 ## Web Performance
 When speaking Compression of images think about: loading time, formats & sizes

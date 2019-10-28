@@ -3,7 +3,7 @@ Speaker: CB Averitt
 Email: cb.averitt@deque.com  
 Personal URL: [https://dive4cb.github.io/index.html](https://dive4cb.github.io/index.html)  
 
-Note: During this notes AT refers to: Assistive Technology
+***Note:*** *During this notes AT refers to: Assistive Technology*
 
 ## Assumptions
 CSS was meant for visual presentation, however it could have some impact on the audio presentation too. The experience for AT users could be affected by using different CSS properties.

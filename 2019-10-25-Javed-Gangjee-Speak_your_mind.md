@@ -1,4 +1,4 @@
-# Speak your mind
+# Unconventional Tech For Users With Divergent Abilities
 Speaker: Javed Gangjee
 Company: Speak your mind
 

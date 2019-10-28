@@ -1,11 +1,6 @@
----
-title: 
-author: Hector Rodriguez
-date: 2019-10-26
----
 # Course Corrections: Shepherding Accessible Design Through The Development Process
-- Speaker: Douglas Gregory 
-- Twitter: [@D_M_Gregory](https://twitter.com/D_M_Gregory)
+Speaker: Douglas Gregory 
+Twitter: [@D_M_Gregory](https://twitter.com/D_M_Gregory)
 ---
 How do we take (as developers) what we hear in conferences and bring them to our game developement.
 

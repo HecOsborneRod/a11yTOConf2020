@@ -1,10 +1,5 @@
----
-title: 
 
-date: 2019-10-26
----
 # Time for some action! Fractions of Friction
-
 Speaker: Bryce Johnson  
 Twitter: [@brycej](https://twitter.com/brycej)
 
