@@ -1,12 +1,13 @@
 ---
 title: 
-author: Hector Rodriguez
+
 date: 2019-10-26
 ---
 # Time for some action! Fractions of Friction
-- Speaker: Bryce Johnson
-- Twitter: [@brycej](https://twitter.com/brycej)
----
+
+Speaker: Bryce Johnson  
+Twitter: [@brycej](https://twitter.com/brycej)
+
 ## I believe, you may disagree
 
 Long term motivations for a11y accommodations built of equity alone re not sustainable
