@@ -36,7 +36,7 @@
 
 
 ## End Notes
-This notes were taken during the a11TO Conference in Toronto.  
+This notes were taken during the #a11yTO Conference in Toronto.  
 I appologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language. 
 
 If you:
