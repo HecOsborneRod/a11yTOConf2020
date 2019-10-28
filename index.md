@@ -35,3 +35,15 @@
 - [Finding_The_Sweet_Spot_Between_Bored_And_Overwhelmed](2019-10-26-Shell_E_Little-Finding_The_Sweet_Spot_Between_Bored_And_Overwhelmed.md)- Shell E Little
 
 
+## End Notes
+This notes were taken during the a11TO Conference in Toronto.  
+I appologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language. 
+
+If you:
+- Want to add more information ...
+- or want to add a slide deck ...
+- or ind any typos (there will be many)...
+
+... please reach out to me at [@madebyhector](http://www.twitter.com/madebyhector)  
+
+Thanks for the amazing #a11y Community in TO.
