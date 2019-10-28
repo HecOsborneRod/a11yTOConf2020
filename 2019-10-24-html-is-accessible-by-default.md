@@ -2,10 +2,10 @@
 title: HTML is accessible by default, right?
 date: 2019-10-24
 ---
-# Old School - Gaming And Aging
-- Speaker: Scott O'Hara
-- Twitter: @scottohara
----
+# HTML is accessible by default, right?
+Speaker: Scott O'Hara  
+Twitter: [@scottohara](http://www.twitter.com/scottohara)
+
 
 ## 1. ARIA  
 - https://www.w3.org/TR/core-aam-1.1/  

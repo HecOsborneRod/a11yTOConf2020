@@ -9,7 +9,7 @@ date: 2019-10-26
 - [Civil Rights Or Shakedowns: Ethics of the digital accessibility Legal Space](2019-10-24-Civil-rights-or-shakedowns-Ethics-of-the-digital-accessibility-legal-space.md) - Lainey Feingold
 - [fAuLT TExt](2019-10-24-fAuLT-Text.md) - Henri Helvetica
 - [HTML is accessible by Default](2019-10-24-html-is-accessible-by-default.md) - Scott O'Hara
-- [These aren\'t the SCs you're looking for](2019-10-24-These-arent-the-scs-you-are-looking-for) - Patrick Lauke
+- [These aren\'t the SCs you're looking for](2019-10-24-These-arent-the-scs-you-are-looking-for.md) - Patrick Lauke
 
 ## Day 2
 - [A11y for content creators](2019-10-25-a11y-for-content-creators.md) 
