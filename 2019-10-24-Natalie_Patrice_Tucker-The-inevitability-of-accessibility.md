@@ -1,4 +1,6 @@
 # The inevitability of accessibility 
+Speaker: Natalie Patrice Tucker  
+Twitter: [NataliePatriceT](https://twitter.com/NataliePatriceT)
 
 ## 5 Steps of Depression
 

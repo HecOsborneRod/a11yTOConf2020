@@ -1,25 +1,20 @@
----
-title: Finding The Sweet Spot Between Bored And Overwhelmed
-author: Shell Little
-date: 2019-10-26
----
 # Finding The Sweet Spot Between Bored And Overwhelmed
-- Speaker: Shell Little
-- Twitter: @ShellELittle
-- http://mixer.com/SisterPaws
----
+Speaker: Shell Little  
+Twitter: [@ShellELittle](http://www.twitter.com/ShellELittle)
+
 ## Intro
 Neurodivergent definition (add photo in phone)  
 
-SPOON THEORY (insert)
+## SPOON THEORY 
+Find source & definition
 
-For gaming: 
+What does this mean for gaming?
 - Left and right: Naw
 - Time dilation: You bet!
 - Hyper Focus: Difficult
 - Sensory Processing Disorder: Mild to Barrier
 
-Keyboard doesn't work for me.
+Keyboard doesn't work for some players.
 Keyboard mapping is important for people with dexterity, and people with physical disabilities. 
 
 Why I haven't played more games: 
