@@ -4,9 +4,8 @@ Twitter: [@sarahtp](http://www.twitter.com/sarahtp)
 [@amja](http://www.twitter.com/amja)  
 [@intopia](http://www.twitter.com/intopia)
 
-# COLES - Australian eCommerce - Findings during audit
-[https://shop.coles.com.au/a/a-national/everything/browse](https://shop.coles.com.au/a/a-national/everything/browse)
-
+# Australian Retail eCommerce company - Findings during audit
+Undisclosed Name as request from the speakers.
 
 ## Keyboard Navigation
 IMPORTANT: 81 TABS before you get to the menu!!  
