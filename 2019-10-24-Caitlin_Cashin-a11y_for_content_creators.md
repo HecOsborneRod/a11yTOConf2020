@@ -1,7 +1,7 @@
 # Accessibility for Content Creators
 Speaker: Caitlin Cashin  
 Twitter: [@caitlinthefirst](http://www.twitter.com/caitlinthefirst)  
-URL: [http://caitlinthefirst.github.io](https://caitlinthefirst.github.io/)
+URL: [http://caitlinthefirst.github.io](https://caitlinthefirst.github.io/)  
 [Slides and resources](https://docs.google.com/presentation/d/1HpEWJlTgYgVPgNEWqK9tl_GlYgbayGX5fLoN3Wghquo/edit)  
 
 ## Definitions

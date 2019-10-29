@@ -4,7 +4,7 @@
 - [HTML is accessible by Default](2019-10-24-Scott_O_Hara-HTML_is_accessible_by_default.md) - Scott O'Hara
 - [fAuLT TExt](2019-10-24-Henri_Helvetica-fAuLT_Text.md) - Henri Helvetica
 - [Civil Rights Or Shakedowns: Ethics of the digital accessibility Legal Space](2019-10-24-Lainey_Feingold-Civil_rights_or_shakedowns_Ethics_of_the_digital_accessibility_legal_space.md) - Lainey Feingold
-- [A11y for content creators](2019-10-25-Caitlin_Cashin-a11y_for_content_creators.md) - Caitlin Cashin 
+- [A11y for content creators](2019-10-24-Caitlin_Cashin-a11y_for_content_creators.md) - Caitlin Cashin 
 - [These aren\'t the SCs you're looking for](2019-10-24-These-arent-the-scs-you-are-looking-for.md) - Patrick Lauke
 - [Being Human Together: The Limits Of Accessible VR](2019-10-24-Alastair-Somerville-Being_human_together.md) - Alastair Somerville
 - [Screen Readers and CSS](2019-10-24-CB_Averitt-Screen-readers-and-css.md) - CB Averitt
