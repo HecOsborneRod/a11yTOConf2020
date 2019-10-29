@@ -1,6 +1,7 @@
 # Civil Rights Or Shakedowns: Ethics Of The Digital Accessibility Legal Space
-Speaker: Lainey Feingold
-Twitter: [@LFLegal](http://www.twitter.com/@LFLegal)
+Speaker: Lainey Feingold  
+Twitter: [@LFLegal](http://www.twitter.com/@LFLegal)  
+Slide Deck: [https://onedrive.live.com/view.aspx?resid=F5D2D4A3678AE5E4!142&ithint=file,pptx&authkey=!AL60YzU2DwGDPvI](https://onedrive.live.com/view.aspx?resid=F5D2D4A3678AE5E4!142&ithint=file,pptx&authkey=!AL60YzU2DwGDPvI)
 
 ## Why is the law part of Digital Accessibility?
 Accessibility is a human right of disabled people!
