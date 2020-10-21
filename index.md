@@ -1,6 +1,4 @@
-If you landed here you might be looking for the 2019 notes.
-[https://hecosbrod.github.io/a11yTOConf2019/](https://hecosbrod.github.io/a11yTOConf2019/)
-Sorry for the confusion 
-
-Notes taken during the a11yTO Conference 2020 will be available after 2020 Conference.
-
+## Day 1
+- [Accessible Cards](Accessible_Cards.md) - Rian Rietveld
+- [Shift - Towards A Culture Of Accessibility And Inclusion](Shift_Towards_A_Culture_Of_Accessibility.md) - Monica Ackermann
+- [How We Can Begin To Design For Cognitive Disabilities](How_We_Can_Begin_To_Design_For_Cognitive_disabilities.md) - Tolu Adegbite
