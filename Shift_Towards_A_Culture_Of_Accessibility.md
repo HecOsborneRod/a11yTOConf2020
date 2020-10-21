@@ -1,6 +1,7 @@
 # Shift - Towards A Culture Of Accessibility And Inclusion
-Speaker: Monica Ackermann
-LinkedIn: [https://www.linkedin.com/in/monica-ackermann/](https://www.linkedin.com/in/monica-ackermann/)
+Speaker: Monica Ackermann  
+Twitter: [@MonicaGigs](https://twitter.com/MonicaGigs)  
+LinkedIn: [https://www.linkedin.com/in/monica-ackermann/](https://www.linkedin.com/in/monica-ackermann/)  
 
 
 ## Lessons Learn
