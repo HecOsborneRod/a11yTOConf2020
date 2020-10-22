@@ -16,3 +16,25 @@
 - [A Beautiful Design Can Also Be Accessible](A_Beautiful_Design_Can_Also_Be_Accessible.md) - Toufic Sbeiti
 - [Everyone Should Have WAP (Web Accessibility Please](Everyone_Should_Have_WAP.md) - Crystal Preston-Watson
 - [Writing Even More CSS With Accessibility In Mind](Writing_Even_More_CSS_With_Accessibility_In_Mind.md) - Manuel Matuzović
+
+
+## Other years
+
+- [2018 conference notes](https://hecosbrod.github.io/a11yTOConf2018/)
+- [2019 conference notes](https://hecosbrod.github.io/a11yTOConf2019/)
+
+## End comment by author
+
+These notes were taken during the #a11yTO Conference in Toronto.  
+I apologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language.
+
+If you:
+
+- Want to add more information ...
+- or want to add a slide deck ...
+- or did you see any typos (there will be many)...
+- or do you want to collaborate?
+
+... please reach out to me at [@HecOsbRod](http://www.twitter.com/HecOsbRod)
+
+Thanks for the amazing #a11y Community in TO.
