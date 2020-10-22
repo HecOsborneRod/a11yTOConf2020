@@ -6,3 +6,6 @@
 - [Procuring Accessible Information And Communication Technology (ICT)](Procuring_Accessible_ICT.md) - Jules Kuehn
 - [Always A Good Time For A11y And Rhymes](Always_A_Good_Time_For_A11y_And_Rhymes.md)  - Donna Vitan
 - [Finding Root Causes](Finding_Root_Causes.md) - Sarah Higley  
+
+## Day 2
+- [1-Up Your Writing With Plain Language ](1-Up_Your_Writing_With_Plain_Language.md)
