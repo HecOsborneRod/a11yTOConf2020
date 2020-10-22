@@ -1,8 +1,6 @@
-h# Writing Even More CSS With Accessibility In Mind 
-Speaker: Manuel Matuzović  
-Twitter: [@mmatuzo](https://twitter.com/mmatuzo)
-
-- Writing CSS with Accessibility in Mind https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
+# Writing Even More CSS With Accessibility In Mind 
+Speaker: Manuel Matuzović   
+Twitter: [@mmatuzo](https://twitter.com/mmatuzo)  
 
 ## Progressive Enhancement
 - Instead of loading thousands of lines of code, use less JS & CSS
@@ -92,3 +90,4 @@ html:not(:lang(en)) {
 - a11y.css https://ffoodd.github.io/a11y.css/
 - https://codepen.io/matuzo/pen/oNLYmXX
 - Manuel posted this link for content https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-user-preferences/
+- Writing CSS with Accessibility in Mind https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
