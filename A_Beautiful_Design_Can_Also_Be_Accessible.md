@@ -33,5 +33,6 @@ Twitter: [@touficsbeiti](https://twitter.com/touficsbeiti)
 - Add mechanism to pause, stop, hide animations on your product
 
 ## Resources
-    - color blindness simulator for windows, mac and linux: https://colororacle.org/
-    - https://www.getstark.co/ this is a good tool for sketch xd and figma, -most of the stuff you need a yearly plan
+- Color blindness simulator for windows, mac and linux: https://colororacle.org/
+- Colour contrast checker https://developer.paciellogroup.com/resources/contrastanalyser/
+- https://www.getstark.co/ this is a good tool for sketch xd and figma, -most of the stuff you need a yearly plan
