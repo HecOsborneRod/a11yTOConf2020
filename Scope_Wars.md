@@ -2,8 +2,8 @@
 Speaker: Alex Tait  
 Twitter: [@AT_Fresh_Dev](https://twitter.com/AT_Fresh_Dev)
 
-## 
-- The power of the Web is in its unervsality. Access by everyone regardless of.... [ finish quote ]
+## Opening Words
+- The power of the Web is in its universality. Access by everyone regardless of.... [ finish quote ]
 - 1.97 Billion websites in the work
 - 95% have JavaScript
 - In 2020 webAIM found 98.1% homepage have WCAG failures

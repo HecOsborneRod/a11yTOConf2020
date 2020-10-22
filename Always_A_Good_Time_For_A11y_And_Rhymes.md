@@ -1,7 +1,7 @@
-# Always A Good Time For A11y And Rhymes – Donna Vitan
-Speaker: Donna Vitan
-Twitter: [@donnavitan](https://twitter.com/donnavitan)
-[Slides](https://docs.google.com/presentation/d/169RTfjAi5lMY4kDtK953zNwgjDNRzqqtYmk8B4V2WcM/edit)
+# Always A Good Time For A11y And Rhymes – Donna Vitan  
+Speaker: Donna Vitan  
+Twitter: [@donnavitan](https://twitter.com/donnavitan)  
+[Slides](https://docs.google.com/presentation/d/169RTfjAi5lMY4kDtK953zNwgjDNRzqqtYmk8B4V2WcM/edit)  
 
 - Have you ever felt the imposter syndrome?
 - a11y: our work is continous and active effort

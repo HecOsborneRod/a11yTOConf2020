@@ -1,6 +1,6 @@
 # How We Can Begin To Design For Cognitive Disabilities
-Speaker: Tolu Adegbite
-Twitter: [@tolu_xyz](https://twitter.com/tolu_xyz)
+Speaker: Tolu Adegbite  
+Twitter: [@tolu_xyz](https://twitter.com/tolu_xyz)  
 
 
 ## What's cognitive disability?

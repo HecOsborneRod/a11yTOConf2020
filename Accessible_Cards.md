@@ -133,7 +133,7 @@ Subscribe to newsletter
         - CON: text not selectable
         - CON: empty element inside in card
     - Use CSS with pseudo-content (preferred)
-        - <h3><a>::after { position:absolute }
+        - `<h3 ><a>::after</a></h3 >  .h3 a ::after { position:absolute }`
         - PRO: whole wrapper clickable
         - CON: no way to select part of the text
         - NOTE: Don't add extra links inside the text!, you can move things using Z-index, but this is confusing for visual / mouse users.
