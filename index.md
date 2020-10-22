@@ -12,3 +12,7 @@
 - [Tuskegee, Belmont And Me-Ethics And Accessible UX](Ethics_And_Accessible_UX.md) - David Sloan
 - [How To Design A Digital Product That Appeals To People With A Hearing Loss Like A Magnet](How_To_Design_A_Digital_Product_That_Appeals_To_People_With_A_Hearing_Loss.md) - Eyra Abraham
 - [Integrating An Accessibility Framework To Improve The WCAG Compliance Process](a11y_framework.md) - Juan Olarte
+- [Cross Screen Reader Bugs & Where To Find Them](Cross_Screen_Reader_Bugs_&_Where_To_Find_Them.md) - Weston Thayer
+- [A Beautiful Design Can Also Be Accessible](A_Beautiful_Design_Can_Also_Be_Accessible.md) - Toufic Sbeiti
+- [Everyone Should Have WAP (Web Accessibility Please](Everyone_Should_Have_WAP.md) - Crystal Preston-Watson
+- [Writing Even More CSS With Accessibility In Mind](Writing_Even_More_CSS_With_Accessibility_In_Mind.md) - Manuel Matuzović

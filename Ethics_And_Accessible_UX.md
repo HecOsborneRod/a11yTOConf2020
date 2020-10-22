@@ -1,6 +1,7 @@
 # Tuskegee, Belmont And Me - Ethics And Accessible UX 
 Speaker: David Sloan  
 Twitter: [@sloandr](https://twitter.com/sloandr)  
+[Slides](https://bit.ly/31vkMOy)
 
 ## General Notes
 - Accessibility professionals know that there's value in building on a11y standards conformance by working with people with disabilities
