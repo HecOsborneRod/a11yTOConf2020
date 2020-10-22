@@ -11,3 +11,4 @@
 - [1-Up Your Writing With Plain Language ](1-Up_Your_Writing_With_Plain_Language.md) - Ashley Bischoff
 - [Tuskegee, Belmont And Me-Ethics And Accessible UX](Ethics_And_Accessible_UX.md) - David Sloan
 - [How To Design A Digital Product That Appeals To People With A Hearing Loss Like A Magnet](How_To_Design_A_Digital_Product_That_Appeals_To_People_With_A_Hearing_Loss.md) - Eyra Abraham
+- [Integrating An Accessibility Framework To Improve The WCAG Compliance Process](a11y_framework.md) - Juan Olarte
