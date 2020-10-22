@@ -2,4 +2,4 @@
 Speaker: Crystal Preston-Watson  
 Twitter: [@ScopicEngineer](https://twitter.com/ScopicEngineer)
 
-- 
+- Social Anxiety Disorder: self consciousness, fear, fear of being judged
