@@ -22,6 +22,9 @@
 - [Uncover The Hidden Challenges Of Using Emoji](Uncover_The_Hidden_Challenges_Of_Using_Emoji.md) - Rachel Menzes
 - [Landmarks](Landmarks.md) - Matthew Tylee Atkinson
 - [How I’m Building A Pro-Accessibility Culture At Canada Post ](How_to_build_pro_a11y_culture.md) - Kate Kalcevich
+- [Accessibility Quality Indicators: Love Made Visible](a11y_quality_indicators.md) - Sarah Horton
+- [Accessible IOs apps - Up to 11!](accesibble_ios_apps.md) - Daniel Devesa
+- [Looking Forward](Looking_Forward.md) - Reginé Gilberts
 
 ## Other years
 
