@@ -1,6 +1,7 @@
 # Uncover The Hidden Challenges Of Using Emoji
-Speaker: Rachel Menzes
+Speaker: Rachel Menzes  
 Twitter: [@Rachel_Menzies](https://twitter.com/Rachel_Menzies)
+[Slides](https://drive.google.com/file/d/1pCKwRa_NV-GIPi-IUUht6Tb__zAiBzWD/view)
 
 - Many people has fun sending emojis, but they can cause confusion. Example: heart + smile face
 - Emojis have Unicode Charaters

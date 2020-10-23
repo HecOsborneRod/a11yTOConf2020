@@ -19,7 +19,9 @@
 
 ## Day 3
 - [Captions Benefit All Of Us](Captions_Benefit_All_Of_Us.md) - Makoto Unei
-- [Uncover The Hidden Challenges Of Using Emoji](Uncover_The_Hidden_Challenges_Of_Using_Emoji.md)
+- [Uncover The Hidden Challenges Of Using Emoji](Uncover_The_Hidden_Challenges_Of_Using_Emoji.md) - Rachel Menzes
+- [Landmarks](Landmarks.md) - Matthew Tylee Atkinson
+- [How I’m Building A Pro-Accessibility Culture At Canada Post ](How_to_build_pro_a11y_culture.md) - Kate Kalcevich
 
 ## Other years
 
