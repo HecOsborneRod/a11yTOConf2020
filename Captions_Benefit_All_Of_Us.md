@@ -17,3 +17,4 @@ Twitter: [@mak_en](https://twitter.com/mak_en)
 - UDTalk: https://udtalk.jp/en/
 - Web4All 2020 17th International Web for All Conference: Automation for Accessibility http://www.w4a.info/2020/
 - Add your own closed captions - YouTube Help https://support.google.com/youtube/answer/2734796?hl=en
+- And if you want to hear more participant responses, check out the CHI paper at http://eprints.bournemouth.ac.uk/33854/1/tigwell-gorman-menzies-CHI2020.pdf

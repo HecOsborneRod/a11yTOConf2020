@@ -19,7 +19,7 @@
 
 ## Day 3
 - [Captions Benefit All Of Us](Captions_Benefit_All_Of_Us.md) - Makoto Unei
-
+- [Uncover The Hidden Challenges Of Using Emoji](Uncover_The_Hidden_Challenges_Of_Using_Emoji.md)
 
 ## Other years
 
