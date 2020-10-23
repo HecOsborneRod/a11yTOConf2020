@@ -87,3 +87,4 @@ Twitter: [@matatk](https://twitter.com/matatk)
 
 ## Resources
 - Regions are only for if there is no other appropriate landmark
+- [Key Screen Casting Tool](https://github.com/keycastr/keycastr)
