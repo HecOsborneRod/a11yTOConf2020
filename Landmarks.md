@@ -82,8 +82,8 @@ Twitter: [@matatk](https://twitter.com/matatk)
 
 ## Keyboard only users
 - Currently they can't navigate using landmarks, without assistive technologies
-- There are some plugins 
+- Use Matthew's Landmark Navigation Browser Extension [http://github.com/matatk/landmarks](http://github.com/matatk/landmarks)
+
 
 ## Resources
 - Regions are only for if there is no other appropriate landmark
-- [http://github.com/matatk/landmarks](http://github.com/matatk/landmarks)
