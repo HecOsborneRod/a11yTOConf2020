@@ -41,8 +41,8 @@ Twitter: [@katekalcevich](https://twitter.com/katekalcevich)
 - We all have a role to play
 ![a11y roles](canada_post_2.png)
 
-
-Canada Post design system: [https://canadapost.design/en/mercury/home.page](https://canadapost.design/en/mercury/home.page)
+## Design System
+- Canada Post design system: [https://canadapost.design/en/mercury/home.page](https://canadapost.design/en/mercury/home.page)
 
 
 ## Digital product targets
@@ -54,3 +54,4 @@ Canada Post design system: [https://canadapost.design/en/mercury/home.page](http
 - Inclusive Components by Heydon Pickering
 - The Power of myth, Inclusive Components
 - The body by Bill Bryson
+- [Canada Post Design System](https://canadapost.design/en/mercury/home.page)
