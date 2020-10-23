@@ -17,6 +17,9 @@
 - [Everyone Should Have WAP (Web Accessibility Please](Everyone_Should_Have_WAP.md) - Crystal Preston-Watson
 - [Writing Even More CSS With Accessibility In Mind](Writing_Even_More_CSS_With_Accessibility_In_Mind.md) - Manuel Matuzović
 
+## Day 3
+- [Captions Benefit All Of Us](Captions_Benefit_All_Of_Us.md) - Makoto Unei
+
 
 ## Other years
 
