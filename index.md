@@ -26,6 +26,9 @@
 - [Accessible IOs apps - Up to 11!](accesibble_ios_apps.md) - Daniel Devesa
 - [Looking Forward](Looking_Forward.md) - Reginé Gilberts
 
+## Gaming
+- [Evolution Of Accessibility In Far Cry](Evolution_Of_Accessibility_In_Far_Cry.md) - Ivan Kulbych  
+
 ## Other years
 
 - [2018 conference notes](https://hecosbornerod.github.io/a11yTOConf2018/)

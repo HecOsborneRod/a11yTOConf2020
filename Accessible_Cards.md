@@ -9,7 +9,7 @@ Cards typically have
 - Image
 - Name
 - Date
-- Number of Attendees
+- Excerpt
 
 Google Search Results Cards
 - Link 
@@ -47,10 +47,10 @@ Subscribe to newsletter
 ## What are the basic requirements for a11y / usability?
 - Order of things
     1. There must be a logical order from top to bottom
-    2. Semantics: use Semmantic HTML5
-    3. heading structure: a heading should reflect the content beneath. The heading level must make sense with the page 
+    2. Semantics: use Semantic HTML5
+    3. heading structure: a heading should reflect the content beneath. The heading level must make sense within the page 
     4. Zoom: must be usable / readable when user zooms in
-    5. Screen reader: all info should be readable by Screen
+    5. Screen reader: all info should be readable by screen reader
     6. Links: should give context, avoid learn more / view more
     7. Tab order should be the same as the visual order (overall)
 
@@ -82,7 +82,7 @@ Subscribe to newsletter
 - A link opens a page
 - A heading is a title
 - Choose the proper markup
-- How to choose ?  [Use Morzilla Developer Network MDN] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- How to choose ?  [Use Mozilla Developer Network MDN] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - Take pride on the quality of your code
 
 ### Heading Level
@@ -103,7 +103,7 @@ Subscribe to newsletter
 ### Tab order
 - Should be predictable
 - For WCAG, the tab order should be the same as the visual display
-- **Pro Tip:** Don't use tab order
+- **Pro Tip:** Don't use positive tab order
 
 
 ### Multiple links in the same Card
@@ -115,7 +115,7 @@ Subscribe to newsletter
 - Solutions:
     - Link only on the title
         - Pros: people are drawn to link
-        - Cons: user expect 
+        - Cons: user expects the image to be clickable
     - Hide Links 
         - tabindex="-1"
         - aria-hidden="true"
@@ -124,7 +124,7 @@ Subscribe to newsletter
         - One target for Screen Reader / Keyboard
         - Con: 
             - Not every visually impaired user is completely blind
-    - Wrap an <a> around everything
+    - Wrap an `<a>` around everything
         - PRO: easy
         - CON: results in a long imconprehensive link **PLEASE don't do this**
     - Use an empty <span> around the link
