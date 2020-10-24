@@ -28,6 +28,7 @@
 
 ## Gaming
 - [Evolution Of Accessibility In Far Cry](Evolution_Of_Accessibility_In_Far_Cry.md) - Ivan Kulbych  
+- [Maximum Fun, Minimal Harm: Ethics And Intentionality In Game Design] - Adrian Petterson(Maximum_Fun_Minimal_Harm.md)
 
 ## Other years
 

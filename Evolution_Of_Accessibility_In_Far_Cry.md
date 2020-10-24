@@ -49,3 +49,7 @@ Speaker: Ivan Kulbych
 
 ## Resources
 - [http://gameaccessibilityguidelines.com/](http://gameaccessibilityguidelines.com/)
+![Resource link list](fc5.png)
+- [https://dagersystem.com](Accessibility Games Reviews)
+- [https://www.color-blindness.com/coblis-color-blindness-simulator/](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- [https://accessible.games/accessible-player-experiences/](https://accessible.games/accessible-player-experiences/)
