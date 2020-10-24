@@ -40,6 +40,7 @@ Speaker: Ivan Kulbych
 - User testing
     - Game needs to be almost final
 
+
 ## Far Cry 6 Accessibility
 - Customize Colour Blind Palette
 ![](fc4.png)
