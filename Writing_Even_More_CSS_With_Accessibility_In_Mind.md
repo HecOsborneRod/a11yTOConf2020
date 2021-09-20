@@ -1,7 +1,7 @@
 # Writing Even More CSS With Accessibility In Mind 
 Speaker: Manuel Matuzović   
 Twitter: [@mmatuzo](https://twitter.com/mmatuzo)  
-
+Slides: [https://noti.st/matuzo/lWUq2w/writing-even-more-css-with-accessibility-in-mind](https://noti.st/matuzo/lWUq2w/writing-even-more-css-with-accessibility-in-mind)  
 ## Progressive Enhancement
 - Instead of loading thousands of lines of code, use less JS & CSS
 - Only us JS if you really need it
